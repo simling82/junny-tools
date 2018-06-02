@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: it.sauronsoftware.jave:jave:1.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/it/sauronsoftware/jave/jave/1.0.2.RELEASE/jave-1.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/it/sauronsoftware/jave/jave/1.0.2.RELEASE/jave-1.0.2.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/it/sauronsoftware/jave/jave/1.0.2.RELEASE/jave-1.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
